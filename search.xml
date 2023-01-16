@@ -13,7 +13,34 @@
       
       <categories>
           
-          <category> A memorable day   纪念日 </category>
+          <category> Memorable day 纪念日 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 标签1 </tag>
+            
+            <tag> 标签2 (可选) </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>坐标：金华 制作魔法药水</title>
+      <link href="/2022/07/26/0726perfume/"/>
+      <url>/2022/07/26/0726perfume/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      <categories>
+          
+          <category> Amusement Day 游玩日 </category>
           
       </categories>
       
@@ -40,7 +67,7 @@
       
       <categories>
           
-          <category> A memorable day   纪念日 </category>
+          <category> Memorable day 纪念日 </category>
           
       </categories>
       
