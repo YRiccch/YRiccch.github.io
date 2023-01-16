@@ -6,7 +6,7 @@
   <link href="http://yriccch.github.io/atom.xml" rel="self"/>
   
   <link href="http://yriccch.github.io/"/>
-  <updated>2023-01-16T15:32:14.700Z</updated>
+  <updated>2023-01-16T15:42:12.648Z</updated>
   <id>http://yriccch.github.io/</id>
   
   <author>
@@ -17,14 +17,35 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>一周年咯！今天就是第一个周年纪念日咯!</title>
+    <link href="http://yriccch.github.io/2023/01/13/365-Days/"/>
+    <id>http://yriccch.github.io/2023/01/13/365-Days/</id>
+    <published>2023-01-12T16:00:00.000Z</published>
+    <updated>2023-01-16T15:42:12.648Z</updated>
+    
+    
+    
+    
+    <category term="A memorable day   纪念日" scheme="http://yriccch.github.io/categories/A-memorable-day-%E7%BA%AA%E5%BF%B5%E6%97%A5/"/>
+    
+    
+    <category term="标签1" scheme="http://yriccch.github.io/tags/%E6%A0%87%E7%AD%BE1/"/>
+    
+    <category term="标签2 (可选)" scheme="http://yriccch.github.io/tags/%E6%A0%87%E7%AD%BE2-%E5%8F%AF%E9%80%89/"/>
+    
+  </entry>
+  
+  <entry>
     <title>100天纪念！</title>
     <link href="http://yriccch.github.io/2022/04/23/100-Days/"/>
     <id>http://yriccch.github.io/2022/04/23/100-Days/</id>
     <published>2022-04-22T16:00:00.000Z</published>
-    <updated>2023-01-16T15:32:14.700Z</updated>
+    <updated>2023-01-16T15:37:13.523Z</updated>
     
     
     
+    
+    <category term="A memorable day   纪念日" scheme="http://yriccch.github.io/categories/A-memorable-day-%E7%BA%AA%E5%BF%B5%E6%97%A5/"/>
     
     
     <category term="标签1" scheme="http://yriccch.github.io/tags/%E6%A0%87%E7%AD%BE1/"/>
@@ -35,13 +56,15 @@
   
   <entry>
     <title>表白！爱情由此展开</title>
-    <link href="http://yriccch.github.io/2022/01/13/text/"/>
-    <id>http://yriccch.github.io/2022/01/13/text/</id>
+    <link href="http://yriccch.github.io/2022/01/13/1-Days/"/>
+    <id>http://yriccch.github.io/2022/01/13/1-Days/</id>
     <published>2022-01-12T16:00:00.000Z</published>
-    <updated>2023-01-16T15:32:17.860Z</updated>
+    <updated>2023-01-16T15:38:32.973Z</updated>
     
     
     
+    
+    <category term="A memorable day   纪念日" scheme="http://yriccch.github.io/categories/A-memorable-day-%E7%BA%AA%E5%BF%B5%E6%97%A5/"/>
     
     
     <category term="标签1" scheme="http://yriccch.github.io/tags/%E6%A0%87%E7%AD%BE1/"/>
