@@ -93,7 +93,7 @@
 /* Intro */
 
 	#intro {
-		color: #ffffff;
+		color: #ffffff; /* 谨以此纪念爱情中闪烁的火花*/
 		padding: 8rem 4rem 6rem 4rem ;
 		-moz-align-items: center;
 		-webkit-align-items: center;
@@ -125,7 +125,7 @@
 	}
 
 		#intro input, #intro select, #intro textarea {
-			color: #ffffff;
+			color: #ffffff; /* 不知道是哪里*/
 		}
 
 		#intro a {
